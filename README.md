@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dr. Amir Mohammad Shahsavrani(PhD) @NPS-Dive
-- 👀 I’m interested in AI and websites
+- 👀 I’m interested in AI and online systems esp for imporving psychosocial health
 - 🌱 I’m currently learning Java, JavaScript, MQL, & Assembly
 - 💞️ I’m looking to collaborate on AI implementation on neuro- psycho- social projects
 - 📫 How to reach me ... via here inbox

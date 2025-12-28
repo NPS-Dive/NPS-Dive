@@ -1,11 +1,23 @@
-- 👋 Hi, I’m Amir Mohammad Shahsavrani @NPS-Dive
-- 👀 I’m interested in AI and online systems esp for imporving #psychosocial #health and reducing #herding #Behavior
-- 💻 I’m currently programming as a .NET full-stack developer, implementing C#, clean-code and CQRS arechitecture, & use html-css-JavaScript when needed.
-- 💻 My second Programming language of interest is Python, which I use Pandas, Locust, Requests, Behave, Playwright, K6, ets to develop automated QA/QC testwares used in CI/CD
-- 💞️ I’m looking to collaborate on AI implementation on neuro- psycho- social projects
-- 📫 How to reach me ... via here inbox
+Hi 👋 I'm Amir Mohammad
 
-<!---
-NPS-Dive/NPS-Dive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Test Automation Engineer (SDET) with a strong .NET full-stack background and a focused transition to QA Automation.
+
+🔹 5+ years of experience in software development (.NET, ASP.NET Core, Blazor)  
+🔹 Specialized in test automation using Python and C#  
+🔹 Hands-on with Playwright, Selenium, Pytest, NUnit, and Behave  
+🔹 Experienced in API, E2E, and performance testing (Locust, JMeter, k6)  
+🔹 Strong CI/CD experience with Azure DevOps, GitHub Actions, Docker, and Kubernetes  
+🔹 ISTQB Foundation Level (CTFL) certified  
+
+I enjoy building *clean, scalable, and maintainable test automation frameworks*,  
+integrating them into CI/CD pipelines, and significantly reducing manual regression effort.
+
+📌 Current focus:
+- E2E & API Test Automation  
+- Scalable test frameworks  
+- CI/CD & test observability  
+- Performance & load testing  
+
+🌍 Open to relocation opportunities with visa sponsorship.
+
+🔗 LinkedIn: https://linkedin.com/in/amir-mohammad-shahsavarani

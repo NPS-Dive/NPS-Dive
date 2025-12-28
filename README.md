@@ -1,23 +1,25 @@
 Hi 👋 I'm Amir Mohammad
 
-Test Automation Engineer (SDET) with a strong .NET full-stack background and a focused transition to QA Automation.
 
-🔹 5+ years of experience in software development (.NET, ASP.NET Core, Blazor)  
-🔹 Specialized in test automation using Python and C#  
-🔹 Hands-on with Playwright, Selenium, Pytest, NUnit, and Behave  
-🔹 Experienced in API, E2E, and performance testing (Locust, JMeter, k6)  
-🔹 Strong CI/CD experience with Azure DevOps, GitHub Actions, Docker, and Kubernetes  
-🔹 ISTQB Foundation Level (CTFL) certified  
+Test Automation Engineer (SDET) with .NET & Python. Building AI-assisted QA solutions using Semantic Kernel, AI Agents, and RAG in Docker & Kubernetes environments.
+GitHub Profile README (Intro Section)
+Test Automation Engineer (SDET) with a strong software engineering background and hands-on experience in designing scalable test automation frameworks.
 
-I enjoy building *clean, scalable, and maintainable test automation frameworks*,  
-integrating them into CI/CD pipelines, and significantly reducing manual regression effort.
+I work with .NET and Python to build end-to-end automation solutions and AI-assisted QA tooling. My recent projects focus on:
+- Using Microsoft Semantic Kernel for LLM orchestration
+- Designing AI Agents for automated test analysis and defect triage
+- Implementing RAG (Retrieval-Augmented Generation) pipelines with vector databases
+- Deploying QA and AI services in Docker- and Kubernetes-based environments
 
-📌 Current focus:
-- E2E & API Test Automation  
-- Scalable test frameworks  
-- CI/CD & test observability  
-- Performance & load testing  
+I am seeking on-site or hybrid opportunities in the Netherlands and require visa sponsorship and relocation.
+Test Automation Engineer (SDET) with a strong software engineering background and hands-on experience in designing scalable test automation frameworks.
 
-🌍 Open to relocation opportunities with visa sponsorship.
+I work with .NET and Python to build end-to-end automation solutions and AI-assisted QA tooling. My recent projects focus on:
+- Using Microsoft Semantic Kernel for LLM orchestration
+- Designing AI Agents for automated test analysis and defect triage
+- Implementing RAG (Retrieval-Augmented Generation) pipelines with vector databases
+- Deploying QA and AI services in Docker- and Kubernetes-based environments
+
+🌍 Open to relocation opportunities with visa sponsorship & relocation.
 
 🔗 LinkedIn: https://linkedin.com/in/amir-mohammad-shahsavarani

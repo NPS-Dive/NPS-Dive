@@ -1,6 +1,6 @@
 # Hi there, I'm Amir Mohammad Shahsavarani 👋
 
-### Lead QA Automation Engineer | Senior SDET | Former Full-Stack .NET Developer
+### Software Engineer | Lead QA Automation Engineer | Senior SDET | Full-Stack .NET Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NPS-Dive&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-shahsavarani)
